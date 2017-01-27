@@ -1,4 +1,4 @@
-# Neuraldrugs ![](/neuraldrugs.jpg?raw=true)
+# ![](/nndrugs.jpg?raw=true) Neuraldrugs
 
 This is a small Friday project aimed at bringing some fun to those who deal with Neural Networks and got a bit tired of them. The idea is to emulate the impact of alcohol and other substances on a Neural Network. The project outcomes can be interesting. It can also help you measure the stability of your networks which can be quite useful.
 
